@@ -32,7 +32,6 @@ The project demonstrates modern web development practices with a clean, professi
 
 ```
 Synthia AI/
-│
 ├── index.html          # Main HTML file with all page content
 ├── styles.css          # Custom CSS styles and responsive design
 ├── script.js           # JavaScript functionality and interactions
